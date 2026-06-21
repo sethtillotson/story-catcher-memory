@@ -1,3 +1,5 @@
 fastapi
 uvicorn
 mem0ai
+requests
+elevenlabs
